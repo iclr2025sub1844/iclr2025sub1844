@@ -4,9 +4,9 @@
 - Same text prompt with different camera trajectories
 <table>
   <tr>
-    <td width=33.3% style="text-align:center" width="90%">line1</td>
-    <td width=33.3% style="text-align:center" width="90%">line2</td>
-    <td width=33.3% style="text-align:center" width="90%">line3</td>
+    <th width=33.3% style="text-align:center" width="90%">line1</th>
+    <th width=33.3% style="text-align:center" width="90%">line2</th>
+    <th width=33.3% style="text-align:center" width="90%">line3</th>
   </tr>
   <tr>
     <td width=100% ><img src="gif/000.gif" alt="horse1_traj" width="90%"></td>
