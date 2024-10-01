@@ -13,57 +13,57 @@ The first column is the original input image, the second column is the camera mo
     <th width=34% style="text-align:center">Result</th>
   </tr>
   <tr>
-    <td colspan="3" ><img src="gif/000.gif"></td>
-  </tr>
-  <tr>
-    <td colspan="3"><img src="gif/001.gif"></td>
-  </tr>
-  <tr>
-    <td colspan="3"><img src="gif/002.gif"></td>
-  </tr>
-  <tr>
-    <td colspan="3"><img src="gif/003.gif"></td>
-  </tr>
-  <tr>
-    <td colspan="3"><img src="gif/004.gif"></td>
-  </tr>
-  <tr>
-    <td colspan="3"><img src="gif/005.gif"></td>
-  </tr>
-  <tr>
-    <td colspan="3"><img src="gif/006.gif"></td>
-  </tr>
-  <tr>
-    <td colspan="3"><img src="gif/007.gif"></td>
-  </tr>
-  <tr>
-    <td colspan="3"><img src="gif/008.gif"></td>
-  </tr>
-  <tr>
-    <td colspan="3"><img src="gif/009.gif"></td>
+    <td colspan="3" ><img src="gif/007.gif"></td>
   </tr>
   <tr>
     <td colspan="3"><img src="gif/010.gif"></td>
   </tr>
   <tr>
-    <td colspan="3"><img src="gif/011.gif"></td>
+    <td colspan="3"><img src="gif/001.gif"></td>
   </tr>
   <tr>
-    <td colspan="3"><img src="gif/012.gif"></td>
+    <td colspan="3"><img src="gif/000.gif"></td>
   </tr>
   <tr>
-    <td colspan="3"><img src="gif/013.gif"></td>
+    <td colspan="3"><img src="gif/002.gif"></td>
   </tr>
   <tr>
-    <td colspan="3"><img src="gif/014.gif"></td>
+    <td colspan="3"><img src="gif/006.gif"></td>
   </tr>
   <tr>
     <td colspan="3"><img src="gif/015.gif"></td>
   </tr>
   <tr>
-    <td colspan="3"><img src="gif/016.gif"></td>
+    <td colspan="3"><img src="gif/013.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/012.gif"></td>
   </tr>
   <tr>
     <td colspan="3"><img src="gif/017.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/011.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/009.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/008.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/004.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/016.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/003.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/005.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/014.gif"></td>
   </tr>
 </table>
