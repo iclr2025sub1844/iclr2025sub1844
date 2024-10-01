@@ -55,6 +55,9 @@ The first column is the original input image, the second column is the camera mo
     <td colspan="3"><img src="gif/004.gif"></td>
   </tr>
   <tr>
+    <td colspan="3"><img src="gif/014.gif"></td>
+  </tr>
+  <tr>
     <td colspan="3"><img src="gif/016.gif"></td>
   </tr>
   <tr>
@@ -62,8 +65,5 @@ The first column is the original input image, the second column is the camera mo
   </tr>
   <tr>
     <td colspan="3"><img src="gif/005.gif"></td>
-  </tr>
-  <tr>
-    <td colspan="3"><img src="gif/014.gif"></td>
   </tr>
 </table>
