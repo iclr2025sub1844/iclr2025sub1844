@@ -1,7 +1,11 @@
 ## Anonymous repository for paper submission: ICLR 2025, paper ID 1844
 
-### Results
-- Same text prompt with different camera trajectories
+This repository contains visual results from our study, showcased in sequential animated GIFs. 
+
+For each sample, we manually set the camera movement and adjust it to a suitable motion strength value. 
+
+The first column is the original input image, the second column is the camera motion trajectory, and the third column is the generated result.
+
 <table>
   <tr>
     <th width=34% style="text-align:center">Input Image</th>
