@@ -4,9 +4,9 @@
 - Same text prompt with different camera trajectories
 <table>
   <tr>
-    <th width=34% style="text-align:center">line1</th>
-    <th width=32% style="text-align:center">line2</th>
-    <th width=34% style="text-align:center">line3</th>
+    <th width=34% style="text-align:center">Input Image</th>
+    <th width=32% style="text-align:center">Camera Movement</th>
+    <th width=34% style="text-align:center">Result</th>
   </tr>
   <tr>
     <td colspan="3" ><img src="gif/000.gif"></td>
