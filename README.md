@@ -4,18 +4,18 @@
 - Same text prompt with different camera trajectories
 <table>
   <th>
-    <tr width=100% ><img src="videos/000.mp4" alt="horse1_traj" width="90%"></tr>
-    <tr width=100%><img src="videos/001.mp4" alt="horse1_vid" width="90%" ></tr>
-    <tr width=100%><img src="videos/002.mp4" alt="horse2_traj" width="90%"></tr>
-    <tr width=100%><img src="videos/003.mp4" alt="horse2_vid" width="90%" ></tr>
-    <tr width=100%><img src="videos/004.mp4" alt="horse3_traj" width="90%"></tr>
-    <tr width=100%><img src="videos/005.mp4" alt="horse3_vid" width="90%"></tr>
-    <tr width=100%><img src="videos/009.mp4" alt="horse3_vid" width="90%"></tr>
-    <tr width=100%><img src="videos/011.mp4" alt="horse3_vid" width="90%"></tr>
-    <tr width=100%><img src="videos/012.mp4" alt="horse3_vid" width="90%"></tr>
-    <tr width=100%><img src="videos/013.mp4" alt="horse3_vid" width="90%"></tr>
-    <tr width=100%><img src="videos/015.mp4" alt="horse3_vid" width="90%"></tr>
-    <tr width=100%><img src="videos/016.mp4" alt="horse3_vid" width="90%"></tr>
-    <tr width=100%><img src="videos/017.mp4" alt="horse3_vid" width="90%"></tr>
+    <tr width=100% ><img src="videos/000.gif" alt="horse1_traj" width="90%"></tr>
+    <tr width=100%><img src="videos/001.gif" alt="horse1_vid" width="90%" ></tr>
+    <tr width=100%><img src="videos/002.gif" alt="horse2_traj" width="90%"></tr>
+    <tr width=100%><img src="videos/003.gif" alt="horse2_vid" width="90%" ></tr>
+    <tr width=100%><img src="videos/004.gif" alt="horse3_traj" width="90%"></tr>
+    <tr width=100%><img src="videos/005.gif" alt="horse3_vid" width="90%"></tr>
+    <tr width=100%><img src="videos/009.gif" alt="horse3_vid" width="90%"></tr>
+    <tr width=100%><img src="videos/011.gif" alt="horse3_vid" width="90%"></tr>
+    <tr width=100%><img src="videos/012.gif" alt="horse3_vid" width="90%"></tr>
+    <tr width=100%><img src="videos/013.gif" alt="horse3_vid" width="90%"></tr>
+    <tr width=100%><img src="videos/015.gif" alt="horse3_vid" width="90%"></tr>
+    <tr width=100%><img src="videos/016.gif" alt="horse3_vid" width="90%"></tr>
+    <tr width=100%><img src="videos/017.gif" alt="horse3_vid" width="90%"></tr>
   </th>
 </table>
