@@ -9,8 +9,8 @@ We demonstrate some camera control effects with ground truth preview here, which
 <table>
   <tr>
     <th width=25% style="text-align:center">Input & GT Preview</th>
-    <th width=25% style="text-align:center">CameraCtrl</th>
     <th width=25% style="text-align:center">MotionCtrl</th>
+    <th width=25% style="text-align:center">CameraCtrl</th>
     <th width=25% style="text-align:center">Ours</th>
   </tr>
   <tr>
