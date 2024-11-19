@@ -6,6 +6,8 @@
 
 We demonstrate some camera control effects with ground truth preview here, which demonstrates our pixel-level control capabilities.
 
+- pan left
+
 <table>
   <tr>
     <th width=25% style="text-align:center">Input & GT Preview</th>
@@ -16,8 +18,30 @@ We demonstrate some camera control effects with ground truth preview here, which
   <tr>
     <td colspan="4" ><img src="gif/pixel/004-3.gif"></td>
   </tr>
+</table>
+
+- pan right
+
+<table>
+  <tr>
+    <th width=25% style="text-align:center">Input & GT Preview</th>
+    <th width=25% style="text-align:center">CameraCtrl</th>
+    <th width=25% style="text-align:center">MotionCtrl</th>
+    <th width=25% style="text-align:center">Ours</th>
+  </tr>
   <tr>
     <td colspan="4" ><img src="gif/pixel/006-2.gif"></td>
+  </tr>
+</table>
+
+- Rotate
+
+<table>
+  <tr>
+    <th width=25% style="text-align:center">Input & GT Preview</th>
+    <th width=25% style="text-align:center">CameraCtrl</th>
+    <th width=25% style="text-align:center">MotionCtrl</th>
+    <th width=25% style="text-align:center">Ours</th>
   </tr>
   <tr>
     <td colspan="4" ><img src="gif/pixel/007-3.gif"></td>
