@@ -142,3 +142,31 @@ We show the results under different motion strength.
   </tr>
 </table>
 
+
+
+## Experiment on another base model
+
+We present some preliminary results on another base model. Although we are not yet able to present very detailed experimental results (due to limited time), the current results should be sufficient to demonstrate the applicability of our method to any base model.
+
+
+<table>
+  <tr>
+    <th width=25% style="text-align:center">Pan</th>
+    <th width=25% style="text-align:center">Zoom</th>
+    <th width=25% style="text-align:center">Tilt</th>
+    <th width=25% style="text-align:center">Rotate</th>
+  </tr>
+  <tr>
+    <td colspan="1" ><img src="gif/pixel/seaweed_pan.gif"></td>
+    <td colspan="1" ><img src="gif/pixel/seaweed_zoom.gif"></td>
+    <td colspan="1" ><img src="gif/pixel/seaweed_tilt.gif"></td>
+    <td colspan="1" ><img src="gif/pixel/seaweed_rotate.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="1" ><img src="gif/pixel/seaweed_pan2.gif"></td>
+    <td colspan="1" ><img src="gif/pixel/seaweed_zoom2.gif"></td>
+    <td colspan="1" ><img src="gif/pixel/seaweed_tilt2.gif"></td>
+    <td colspan="1" ><img src="gif/pixel/seaweed_rotate2.gif"></td>
+  </tr>
+  <tr>
+</table>
