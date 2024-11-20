@@ -6,7 +6,7 @@
 
 We demonstrate some camera control effects with ground truth preview here, which demonstrates our pixel-level control capabilities.
 
-- pan left
+Please note that some of the following examples contain combinations of multiple camera movements.
 
 <table>
   <tr>
