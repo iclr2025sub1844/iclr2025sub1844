@@ -168,5 +168,26 @@ We present some preliminary results on another base model. Although we are not y
     <td colspan="1" ><img src="gif/pixel/seaweed_tilt2.gif"></td>
     <td colspan="1" ><img src="gif/pixel/seaweed_rotate2.gif"></td>
   </tr>
-  <tr>
 </table>
+
+
+## Visualization of dynamic mask
+
+Some representative examples are illustrated below. Our method successfully classifies subjects exhibiting substantial motion into dynamic segments with a high degree of accuracy.
+
+
+<table>
+  <tr>
+    <td colspan="1" ><img src="gif/pixel/seaweed_pan.gif"></td>
+    <td colspan="1" ><img src="gif/pixel/seaweed_zoom.gif"></td>
+    <td colspan="1" ><img src="gif/pixel/seaweed_tilt.gif"></td>
+    <td colspan="1" ><img src="gif/pixel/seaweed_rotate.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="1" ><img src="gif/pixel/seaweed_pan2.gif"></td>
+    <td colspan="1" ><img src="gif/pixel/seaweed_zoom2.gif"></td>
+    <td colspan="1" ><img src="gif/pixel/seaweed_tilt2.gif"></td>
+    <td colspan="1" ><img src="gif/pixel/seaweed_rotate2.gif"></td>
+  </tr>
+</table>
+
