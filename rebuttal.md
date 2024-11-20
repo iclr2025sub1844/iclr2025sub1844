@@ -175,19 +175,29 @@ We present some preliminary results on another base model. Although we are not y
 
 Some representative examples are illustrated below. Our method successfully classifies subjects exhibiting substantial motion into dynamic segments with a high degree of accuracy.
 
+<table>
+  <tr>
+    <td colspan="1" ><img src="gif/motion_mask/123RF+packed_2+m0_000000+26357585.gif"></td>
+    <td colspan="1" ><img src="gif/motion_mask/123RF+packed_2+m0_000000+45636767.gif"></td>
+    <td colspan="1" ><img src="gif/motion_mask/123RF+packed_2+m0_000000+101776714.gif"></td>
+    <td colspan="1" ><img src="gif/motion_mask/123RF+packed_2+m0_000000+106529640.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="1" ><img src="gif/motion_mask/123RF+packed_2+m0_000000+193535445.gif"></td>
+    <td colspan="1" ><img src="gif/motion_mask/123RF+packed_2+m0_000000+141908344.gif"></td>
+    <td colspan="1" ><img src="gif/motion_mask/123RF+packed_2+m0_000000+185810975.gif"></td>
+    <td colspan="1" ><img src="gif/motion_mask/123RF+packed_2+m0_000000+195560416.gif"></td>
+  </tr>
+</table>
+
+As suggested by the reviewer, we specifically selected some examples featuring lake/sea/water, which are showcased below:
 
 <table>
   <tr>
-    <td colspan="1" ><img src="gif/pixel/seaweed_pan.gif"></td>
-    <td colspan="1" ><img src="gif/pixel/seaweed_zoom.gif"></td>
-    <td colspan="1" ><img src="gif/pixel/seaweed_tilt.gif"></td>
-    <td colspan="1" ><img src="gif/pixel/seaweed_rotate.gif"></td>
-  </tr>
-  <tr>
-    <td colspan="1" ><img src="gif/pixel/seaweed_pan2.gif"></td>
-    <td colspan="1" ><img src="gif/pixel/seaweed_zoom2.gif"></td>
-    <td colspan="1" ><img src="gif/pixel/seaweed_tilt2.gif"></td>
-    <td colspan="1" ><img src="gif/pixel/seaweed_rotate2.gif"></td>
+    <td colspan="1" ><img src="gif/motion_mask/123RF+packed_2+m0_000000+37280830.gif"></td>
+    <td colspan="1" ><img src="gif/motion_mask/123RF+packed_2+m0_000000+40120911.gif"></td>
+    <td colspan="1" ><img src="gif/motion_mask/123RF+packed_2+m0_000000+40736998.gif"></td>
+    <td colspan="1" ><img src="gif/motion_mask/123RF+packed_2+m0_000000+110499692.gif"></td>
   </tr>
 </table>
 
