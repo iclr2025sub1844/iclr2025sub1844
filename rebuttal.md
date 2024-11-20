@@ -100,3 +100,45 @@ The following samples contain combinations of multiple camera movements.
   </tr>
 </table>
 
+
+## Multiple motion strength
+
+We show the results under different motion strength.
+
+
+<table>
+  <tr>
+    <th width=25% style="text-align:center">Input & GT Preview</th>
+    <th width=25% style="text-align:center">MS=0</th>
+    <th width=25% style="text-align:center">MS=200</th>
+    <th width=25% style="text-align:center">MS=600</th>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/pixel/range_0.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/pixel/range_1.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/pixel/range_2.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/pixel/range_3.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/pixel/range_4.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/pixel/range_5.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/pixel/range_6.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/pixel/range_7.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/pixel/range_8.gif"></td>
+  </tr>
+</table>
+
