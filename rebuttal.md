@@ -27,12 +27,24 @@ Please note that some of the following examples contain combinations of multiple
     <td colspan="4" ><img src="gif/pixel/20240906132533.gif"></td>
   </tr>
   <tr>
+    <th width=20% style="text-align:center">rotate + move up + tilt down</th>
+    <td colspan="4" ><img src="gif/pixel/20241120012823.gif"></td>
+  </tr>
+  <tr>
     <th width=20% style="text-align:center">pan left</th>
     <td colspan="4" ><img src="gif/pixel/004-3.gif"></td>
   </tr>
   <tr>
+    <th width=20% style="text-align:center">rotate + zoom in</th>
+    <td colspan="4" ><img src="gif/pixel/20241120011336.gif"></td>
+  </tr>
+  <tr>
     <th width=20% style="text-align:center">pan right</th>
     <td colspan="4" ><img src="gif/pixel/006-2.gif"></td>
+  </tr>
+  <tr>
+    <th width=20% style="text-align:center">rotate + pan right</th>
+    <td colspan="4" ><img src="gif/pixel/20241120015213.gif"></td>
   </tr>
   <tr>
     <th width=20% style="text-align:center">rotate</th>
