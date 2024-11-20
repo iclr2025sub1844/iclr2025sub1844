@@ -17,6 +17,10 @@ We demonstrate some camera control effects with ground truth preview here, which
     <th width=20% style="text-align:center">Ours</th>
   </tr>
   <tr>
+    <th width=20% style="text-align:center">move left + pan right + move up + tilt down</th>
+    <td colspan="4" ><img src="gif/pixel/20241002002519.gif"></td>
+  </tr>
+  <tr>
     <th width=20% style="text-align:center">pan left</th>
     <td colspan="4" ><img src="gif/pixel/004-3.gif"></td>
   </tr>
