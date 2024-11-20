@@ -6,7 +6,7 @@
 
 We show our camera control results with ground truth preview here, which demonstrates our pixel-level control capabilities.
 
-We also list the results of the comparing methods for the qualitative comparison.
+We also list the results of the comparing methods for the qualitative comparison. We can observe that our control precision is significantly higher than that of comparative methods.
 
 <table>
   <tr>
@@ -73,7 +73,7 @@ The following samples contain combinations of multiple camera movements.
 
 ## Multiple dynamic objects
 
-The following samples contain multiple dynamic objects.
+The following samples contain multiple dynamic objects, where our method can still achieve precise control and natural dynamics.
 
 
 <table>
@@ -103,7 +103,7 @@ The following samples contain multiple dynamic objects.
 
 ## Multiple motion strength
 
-We show the results under different motion strength.
+We show the results under different motion strength. It is evident that as the motion strength increases, the amplitude of the motions enlarged and shows a direct positive correlation with the set values of motion strength.
 
 
 <table>
