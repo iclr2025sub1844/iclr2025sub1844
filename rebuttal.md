@@ -6,6 +6,8 @@
 
 We demonstrate some camera control effects with ground truth preview here, which demonstrates our pixel-level control capabilities.
 
+To intuitively demonstrate the qualitative comparison between our method and the comparing methods, we also list the results of the comparing methods.
+
 Please note that some of the following examples contain combinations of multiple camera movements.
 
 <table>
