@@ -4,9 +4,9 @@
 
 ## Pixel-level Control & Visual Comparisons
 
-We demonstrate some camera control effects with ground truth preview here, which demonstrates our pixel-level control capabilities.
+We show our camera control results with ground truth preview here, which demonstrates our pixel-level control capabilities.
 
-To intuitively demonstrate the qualitative comparison between our method and the comparing methods, we also list the results of the comparing methods.
+We also list the results of the comparing methods for the qualitative comparison.
 
 <table>
   <tr>
@@ -73,7 +73,7 @@ The following samples contain combinations of multiple camera movements.
 
 ## Multiple dynamic objects
 
-The following samples contain combinations of multiple camera movements.
+The following samples contain multiple dynamic objects.
 
 
 <table>
